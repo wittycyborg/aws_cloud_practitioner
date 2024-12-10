@@ -1,0 +1,41 @@
+# Exclude .terraform directories
+.terraform/
+
+# Exclude Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Exclude crash log files
+crash.log
+
+# Exclude Terraform variable override files
+*.tfvars
+*.tfvars.json
+
+# Exclude Terraform CLI configuration files
+.terraformrc
+.terraform.rc
+
+# Exclude lock file (if you don't want to track it)
+.terraform.lock.hcl
+# Exclude .terraform directories
+.terraform/
+
+# Exclude Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Exclude crash log files
+crash.log
+
+# Exclude Terraform variable override files
+*.tfvars
+*.tfvars.json
+
+# Exclude Terraform CLI configuration files
+.terraformrc
+.terraform.rc
+
+# Exclude lock file (if you don't want to track it)
+.terraform.lock.hcl
+
